@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271029225526",
+    "project_id": "cins467-s25-assign7",
+    "storage_bucket": "cins467-s25-assign7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271029225526:android:b319bbdf5532f5055eb097",
+        "android_client_info": {
+          "package_name": "com.example.smpandit_assignment7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDpmq8g6FkTfFWdztEnYlHm7p4iCHEMtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
